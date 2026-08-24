@@ -51,8 +51,6 @@ A web-based malware analysis environment designed for safely executing and analy
 - File hash verification
 - Security analysis workflow
 
-🔗 **Project:** [View on GitHub](#)
-
 ---
 
 ### 2. Centralized SOC Log Monitoring & Attack Detection Lab
@@ -78,8 +76,6 @@ A multi-VM cybersecurity laboratory designed to simulate SOC monitoring, central
 - Process and registry monitoring
 - Automated log forwarding
 
-🔗 **Project:** [View on GitHub](#)
-
 ---
 
 ### 3. Vulnerability Assessment & Penetration Testing Lab
@@ -103,8 +99,6 @@ Performed vulnerability assessment and penetration testing across lab environmen
 - SMB enumeration
 - Vulnerability analysis and reporting
 
-🔗 **Project:** [View on GitHub](#)
-
 ---
 
 ### 4. AI-Assisted SIEM & Incident Response Automation
@@ -125,8 +119,6 @@ An AI-assisted security monitoring and incident response solution integrating SI
 - AI-assisted alert analysis
 - Security investigation support
 - Incident response automation
-
-🔗 **Project:** [View on GitHub](#)
 
 ---
 
